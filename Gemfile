@@ -57,5 +57,5 @@ gem 'sidekiq'
 
 # Resque
 gem 'resque'
-
+gem 'redis'
 gem 'unicorn'
